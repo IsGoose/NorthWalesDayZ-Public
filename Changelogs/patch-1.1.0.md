@@ -1,5 +1,5 @@
 # Patch 1.1.0 "The Overpoch Patch"
-Date of Release: 06/12/2022
+Date of Release: 06/12/2021
 
 ## Additions
 ### Overwatch Mod
