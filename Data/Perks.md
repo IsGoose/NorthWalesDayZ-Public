@@ -132,7 +132,7 @@ __Formula: `Range = 500 + (250 * Level)` `Cooldown = 900 - (150 * Level)` `Accur
 * Level 2 [750XP]:  15 Million
 * Level 3 [1000XP]: 20 Million
 
-__Formula: Limit = `5 Million + (5 Million * Level)`__
+__Formula: `Limit = 5 Million + (5 Million * Level)`__
 
 ## Trade Master
 *Unlocks Purchase of Restricted Items*
