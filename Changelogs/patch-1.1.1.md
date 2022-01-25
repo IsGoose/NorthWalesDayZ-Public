@@ -1,5 +1,5 @@
 # Patch 1.1.1
-Date of Release: 16/01/2022
+Date of Release: 26/01/2022
 
 ## Additions
 #### New Perk "Trade Master"
