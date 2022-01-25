@@ -18,3 +18,4 @@ Date of Release: 26/01/2022
 * Fixed Sometimes getting No Reward from Capture Points
 * Automatically Kill AI who Wander too Far from their Mission
 * Fix Random Weighted Special Mission Loot Algorithm
+* Re-Configure Black Market Trader
