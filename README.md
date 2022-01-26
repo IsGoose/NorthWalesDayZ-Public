@@ -1,4 +1,3 @@
-__NOT VERBAITM, FOR FORMATTING ONLY__
 ##  Changelogs  
 *In Order of Latest-Oldest*  
 [[LATEST] Patch: 1.1.1 (26/01/2022)](../main/Changelogs/patch-1.1.1.md)  
