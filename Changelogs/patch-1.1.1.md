@@ -1,3 +1,12 @@
+## Patch 1.1.1 Hotfix 1
+Date of Release: 28/01/2022 [Continuous]
+### Fixes
+* Fixed On-Back Weapon being Overridden when Buying Toolbelt Items
+* Fixed being able to Sell Toolbelt Items Over and Over
+* Fixed No Cash Reward from Bank Rob
+
+
+
 # Patch 1.1.1
 Date of Release: 26/01/2022
 
