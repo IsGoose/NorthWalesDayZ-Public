@@ -1,5 +1,6 @@
 ##  Changelogs  
 *In Order of Latest-Oldest*  
+[[DEVELOPMENT] Patch: 1.1.2 (TBA)](../main/Changelogs/patch-1.1.2.md)  
 [[LATEST] Patch: 1.1.1 (26/01/2022)](../main/Changelogs/patch-1.1.1.md)  
 [Patch: 1.1.0 (06/12/2021)](../main/Changelogs/patch-1.1.0.md)
 
