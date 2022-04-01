@@ -18,6 +18,6 @@
 * Base Painting (If Possible with Epoch Assets)
 
 #### Just Ideas
-* Placable Prefab Objects
+* Placeable Prefab Objects
 * Client-Side Objects (Need More Data on Server Performance Under Load)
 * Performance Optimisations (Dynamic Loading of Objects, Unload Objects Not in Line-of-Sight, etc)
