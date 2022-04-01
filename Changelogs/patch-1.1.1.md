@@ -1,9 +1,17 @@
 ## Patch 1.1.1 Hotfix 1
-Date of Release: 28/01/2022 [Continuous]
+Date of Release: 28/01/2022 (End:01/04/2022)
 ### Fixes
 * Fixed On-Back Weapon being Overridden when Buying Toolbelt Items
 * Fixed being able to Sell Toolbelt Items Over and Over
 * Fixed No Cash Reward from Bank Rob
+* Fixed Transaction Related Issues
+* Fixed Trader Menu Related Issues
+* Fixed Various Login Issues (Loadouts, Loss of XP on Death, No 2 Million Coins)
+* Multiple BE Filters
+* Antihack & Security Changes
+* Fixed Built Objects getting Vectors Scuffed on Code Change
+* Fixed Base Object Damage
+* Smaller Fixes not worth mentioning
 
 
 
